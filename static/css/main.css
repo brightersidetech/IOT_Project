@@ -1,0 +1,16 @@
+/* universal selctor */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,500,700');
+
+*{
+	/*font-family: "Lucida Console", Courier, monospace; */
+	font-family: 'Karla', sans-serif;
+	color: red;
+}
+
+/* html */
+html {
+padding-top: 0px;
+
+/* body */
+}
