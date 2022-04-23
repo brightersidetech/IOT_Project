@@ -55,3 +55,7 @@ Include /etc/phpmyadmin/apache.conf
 ```
 sudo service apache2 restart
 ```
+### Install Mariadb Connector for Python
+```
+pip3 install mariadb
+```
